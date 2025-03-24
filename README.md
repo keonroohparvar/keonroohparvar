@@ -1,4 +1,4 @@
-Hello! My name is Keon Roohparvar, and I am currently a Machine Learning Engineer at Apple. I recently graduated from Cal Poly SLO with Bachelor's and Master's of Science degrees in Computer Science, and my technical focus is Artifical Intelligence. 
+Hello! My name is Keon Roohparvar, and I am currently a Machine Learning Engineer working on some revolutionary AI stuff. I recently graduated from Cal Poly SLO with Bachelor's and Master's of Science degrees in Computer Science, and my technical focus is Artifical Intelligence. 
 
 My technical interests include:
 * Deep Learning
