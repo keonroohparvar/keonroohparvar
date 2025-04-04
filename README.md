@@ -1,15 +1,15 @@
-Hello! My name is Keon Roohparvar, and I am currently a Machine Learning Engineer working on some revolutionary AI stuff. I recently graduated from Cal Poly SLO with Bachelor's and Master's of Science degrees in Computer Science, and my technical focus is Artifical Intelligence. 
+Hey there, I'm Keon Roohparvar! I'm currently the Chief ML Engineer at a startup where I'm leading the charge on some truly revolutionary AI—redesigning neural networks on our custom silicon hardware to drastically cut down global AI energy consumption [see website here](https://roogen.ai). 
 
-My technical interests include:
-* Deep Learning
-* Generative AI
-  * Diffusion Models (Stable Diffusion, Latent Diffusion, etc.)
-  * Generative Adversarial Networks (GANs)
-* Computer Vision
+My technical journey began at Cal Poly SLO, where I earned both Bachelor's and Master's degrees in Computer Science, focusing on Artificial Intelligence. After graduating, I worked as a MLE at Apple for 1.5 years working on testing the Cameras using ML/CV algorithms.
 
-On a more personal note, some of my hobbies include:
-* Piano - I have a piano page on Instagram @keonspianopage; feel free to check it out!
-* Music Production - I have made some Lofi beats with some piano and guitar - Lofi is the perfect music for programmers, so check out my EP on Spotify @Geevoo :) 
-* 3-D Printing - I (attempt to) make small things for various around-the-house needs on SolidWorks, and I print them on my Ender 3 printer. 
+🚀 My tech interests include:
+- Deep Learning
+- Generative AI (especially Diffusion Models like Stable Diffusion and Latent Diffusion)
+- Generative Adversarial Networks (GANs)
 
-Please feel free to contact me at kroohpar@gmail.com, and let me know if you have any questions about my projects!
+🎹 When I'm not coding, you can find me:
+- Playing Piano 🎶 – check out my piano adventures on Instagram @keonspianopage.
+- Producing Music 🎧 – I love creating chill Lofi beats infused with piano and guitar. Great music for coding! Listen to my EP on Spotify @Geevoo.
+- 3D Printing 🖨️ – I design and print practical (and sometimes impractical) creations around the house using SolidWorks and my trusty Ender 3.
+
+📬 Feel free to reach out at kroohpar@gmail.com – I'm always happy to chat about projects, collaborations, or absolutely anything else (I really can't help myself sometimes, I might need help)!
