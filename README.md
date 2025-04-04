@@ -1,4 +1,4 @@
-Hey there, I'm Keon Roohparvar! I'm currently the Chief ML Engineer at a startup where I'm leading the charge on some truly revolutionary AI—redesigning neural networks on our custom silicon hardware to drastically cut down global AI energy consumption [see website here](https://roogen.ai). 
+Hey there, my name is Keon! I'm currently the Chief ML Engineer at a startup where I'm leading the charge on some truly revolutionary AI—redesigning neural networks on our custom silicon hardware to drastically cut down global AI energy consumption [see website here](https://roogen.ai). 
 
 My technical journey began at Cal Poly SLO, where I earned both Bachelor's and Master's degrees in Computer Science, focusing on Artificial Intelligence. After graduating, I worked as a MLE at Apple for 1.5 years working on testing the Cameras using ML/CV algorithms.
 
